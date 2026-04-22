@@ -2,7 +2,7 @@
 
 **166 Keystone Protected Areas Across Africa**
 
-![Where The Wild Things Roam](WTWTR_nolabels_4K.png)
+![Where The Wild Things Roam](WTWTR_nolabels_linkedin.png)
 
 ## About this map
 
