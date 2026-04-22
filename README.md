@@ -1,19 +1,41 @@
 # Where The Wild Things Roam
 
-A map of **166 Keystone Protected Areas across Africa** — visualising the critical wildlife corridors and conservation zones that anchor biodiversity across the continent.
+**166 Keystone Protected Areas Across Africa**
 
-## Files
+![Where The Wild Things Roam](WTWTR_nolabels_4K.png)
 
-| File | Description |
-|------|-------------|
-| `WTWTR_4K_sharp.png` | Full 4K map with labels |
-| `WTWTR_nolabels_4K.png` | 4K version without labels (clean background) |
-| `WTWTR_nolabels_print.pdf` | Print-ready PDF without labels |
+## About this map
 
-## About
+This map visualizes the 166 polygons in the Africa Keystone Protected Areas dataset. Each polygon is colored by designation type. The data comes from a 2025 study led by African Parks, the Wildlife Conservation Society, and Frankfurt Zoological Society, which identified 162 protected areas across 33 African countries that could collectively anchor continent-wide conservation efforts.
 
-This map highlights 166 keystone protected areas — national parks, game reserves, and conservation areas — that form the backbone of wildlife protection across Africa. These areas are critical not only for iconic megafauna but for the broader ecological networks that sustain them.
+These areas make up roughly 2% of Africa's protected estate, yet they cover a third of all protected land and contain 71% of the continent's threatened vertebrate species.
+
+Learn more about the Keystone Protected Areas initiative at [africakeystones.org](https://africakeystones.org/).
+
+## Downloads
+
+| File | Resolution | Size | Format |
+|------|-----------|------|--------|
+| `WTWTR_nolabels_4K.png` | 4320 x 5400 px, 300 DPI | ~89 MB | PNG (no labels, with faint country names) |
+| `WTWTR_nolabels_print.pdf` | A3, 300 DPI, vector | ~5 MB | PDF (infinite zoom, vector text) |
+
+## Map details
+
+- **Projection**: EPSG:4326 (WGS 84)
+- **Africa fill**: #3E3E44 with silver borders (#8A8A96)
+- **Ocean**: #1E2028
+- **Protected areas**: Categorized by designation type in jewel tones (30 categories)
+- **Country names**: Faint silver uppercase (Helvetica Neue, 55% opacity)
+- **No PA labels, no scale bar, no legend, no north arrow**
+
+## Tools
+
+Mapped in [QGIS](https://qgis.org/).
 
 ## License
 
-All rights reserved. Contact the author for usage permissions.
+This map is shared for personal and educational use. The underlying Keystone Protected Areas dataset is the work of African Parks, WCS, FZS, and collaborating researchers.
+
+## Author
+
+Elias Omondi Cartography
