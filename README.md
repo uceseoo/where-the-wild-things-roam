@@ -8,16 +8,16 @@
 
 This map visualizes the 166 polygons in the Africa Keystone Protected Areas dataset. Each polygon is colored by designation type. The data comes from a 2025 study led by African Parks, the Wildlife Conservation Society, and Frankfurt Zoological Society, which identified 162 protected areas across 33 African countries that could collectively anchor continent-wide conservation efforts.
 
-These areas make up roughly 2% of Africa's protected estate, yet they cover a third of all protected land and contain 71% of the continent's threatened vertebrate species.
+These areas make up roughly 2% of Africa's protected estate by number, yet they cover a third of all protected land and contain 71% of the continent's threatened vertebrate species.
 
 Learn more about the Keystone Protected Areas initiative at [africakeystones.org](https://africakeystones.org/).
 
 ## Downloads
 
-| File | Resolution | Size | Format |
-|------|-----------|------|--------|
-| `WTWTR_nolabels_4K.png` | 4320 x 5400 px, 300 DPI | ~89 MB | PNG (no labels, with faint country names) |
-| `WTWTR_nolabels_print.pdf` | A3, 300 DPI, vector | ~5 MB | PDF (infinite zoom, vector text) |
+| File | Resolution | Size | Description |
+|------|-----------|------|-------------|
+| `WTWTR_4K_labeled.png` | 4320 x 5400 px, 300 DPI | ~89 MB | Labeled version with PA names, faint country names, title and attribution |
+| `WTWTR_nolabels_linkedin.png` | 1080 x 1350 px | ~6 MB | No PA labels, faint country names, title and attribution (LinkedIn-optimized) |
 
 ## Map details
 
@@ -26,7 +26,7 @@ Learn more about the Keystone Protected Areas initiative at [africakeystones.org
 - **Ocean**: #1E2028
 - **Protected areas**: Categorized by designation type in jewel tones (30 categories)
 - **Country names**: Faint silver uppercase (Helvetica Neue, 55% opacity)
-- **No PA labels, no scale bar, no legend, no north arrow**
+- **PA labels** (4K version): White italic Georgia with dark halo
 
 ## Tools
 
