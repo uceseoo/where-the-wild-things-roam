@@ -16,7 +16,8 @@ Learn more about the Keystone Protected Areas initiative at [africakeystones.org
 
 | File | Resolution | Size | Description |
 |------|-----------|------|-------------|
-| `WTWTR_4K_labeled.png` | 4320 x 5400 px, 300 DPI | ~89 MB | Labeled version with PA names, faint country names, title and attribution |
+| `WTWTR_4K_labeled.png` | 4320 x 5400 px, 300 DPI | ~89 MB | Labels and PA names, faint country names, title and attribution |
+| `WTWTR_4K_labeled_legend.png` | 4320 x 5400 px, 300 DPI | ~89 MB | Labels, PA names, and full legend |
 | `WTWTR_nolabels_linkedin.png` | 1080 x 1350 px | ~6 MB | No PA labels, faint country names, title and attribution (LinkedIn-optimized) |
 
 ## Map details
