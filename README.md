@@ -39,4 +39,4 @@ This map is shared for personal and educational use. The underlying Keystone Pro
 
 ## Author
 
-Elias Omondi Cartography
+Elias Omondi
