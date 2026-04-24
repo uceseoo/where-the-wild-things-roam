@@ -19,6 +19,7 @@ Learn more about the Keystone Protected Areas initiative at [africakeystones.org
 | `WTWTR_4K_labeled.png` | 4320 x 5400 px, 300 DPI | ~89 MB | Labels and PA names, faint country names, title and attribution |
 | `WTWTR_4K_labeled_legend.png` | 4320 x 5400 px, 300 DPI | ~89 MB | Labels, PA names, and full legend |
 | `WTWTR_nolabels_linkedin.png` | 1080 x 1350 px | ~6 MB | No PA labels, faint country names, title and attribution (LinkedIn-optimized) |
+| `Keystone_Protected_Areas_Dataset/` | — | ~12 MB | Shapefile dataset (ESRI Shapefile, EPSG:4326) — 166 polygons, March 2026 |
 
 ## Map details
 
